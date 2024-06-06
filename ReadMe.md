@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & AI**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/akarshankapoor/](https://www.linkedin.com/in/akarshankapoor/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/akarshankapoor/]
 
-- 💬 Ask me about **SQL,Python,Tableau,PowerBI,ML,DL,NLP,AWS**
+- 💬 Ask me about **SQL, Python, Tableau, PowerBI, ML, DL, NLP, AWS**
 
 - 📫 How to reach me **akarshan.kapoor7@gmail.com**
 
