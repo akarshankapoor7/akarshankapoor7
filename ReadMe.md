@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/akarshankapoor/]
 
-- 💬 Ask me about **SQL, Python, Tableau, PowerBI, ML, DL, NLP, AWS**
+- 💬 Ask me about **SQL, Python, Tableau, PowerBI, ML, DL, NLP, LLM's, GEN-AI**
 
 - 📫 How to reach me **akarshan.kapoor7@gmail.com**
 
