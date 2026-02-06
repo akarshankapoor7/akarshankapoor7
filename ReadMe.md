@@ -12,7 +12,7 @@ Turning data into insights • Building ML systems • Exploring Generative AI
 ---
 
 ## 🌱 Currently Learning
-Machine Learning • Deep Learning • Generative AI • LangChain • LangGraph • Agentic AI • Claude • RAG
+Machine Learning • Deep Learning • Generative AI • RAG • LangChain • LangGraph • Agentic AI • Claude • CrewAI • Antigravity
 
 ---
 
@@ -22,7 +22,7 @@ Machine Learning • Deep Learning • Generative AI • LangChain • LangGraph
 ---
 
 ## 💬 Ask Me About
-SQL • Python • Tableau • Power BI • ML • DL • NLP • LLMs • Generative AI • RAG • LangChain • LangGraph • Agentic AI • Claude
+SQL • Python • Tableau • Power BI • ML • DL • NLP • LLMs • Generative AI • RAG • LangChain • LangGraph • Agentic AI • Claude • CrewAI • Antigravity
 
 ---
 
@@ -40,9 +40,9 @@ SQL • Python • Tableau • Power BI • ML • DL • NLP • LLMs • Gener
 
 ---
 
-## 🛠 Languages & Tools
+# 🛠 Tech Stack
 
-### Core Stack
+### 💻 Core
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
@@ -54,18 +54,24 @@ SQL • Python • Tableau • Power BI • ML • DL • NLP • LLMs • Gener
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/>
 </p>
 
-### Cloud
+---
+
+### ☁️ Cloud
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
 </p>
 
-### Generative AI & LLM Stack
+---
+
+### 🤖 Generative AI & LLM Stack
 <p>
 <img src="https://img.shields.io/badge/RAG-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic_AI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Antigravity-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Claude-6B4DE6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
@@ -73,7 +79,13 @@ SQL • Python • Tableau • Power BI • ML • DL • NLP • LLMs • Gener
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshankapoor7&layout=compact"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akarshankapoor7&show_icons=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshankapoor7&layout=compact"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akarshankapoor7"/>
 </p>
